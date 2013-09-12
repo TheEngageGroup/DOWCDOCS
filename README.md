@@ -29,7 +29,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **2. Pricing**
 
-![](//Step1_2.png)
+![](/Step1_2.png)
 	
 	1. Enter Standard Price
 
