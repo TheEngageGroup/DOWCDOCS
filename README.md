@@ -7,7 +7,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 *Note: Make sure you save after each step!*
 
 **1. Identification**
-	![](//Step1_1.png)
+		![](//Step1_1.png)
 
 1. Enter a name for the product
 	
