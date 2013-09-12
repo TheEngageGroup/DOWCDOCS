@@ -7,7 +7,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 *Note: Make sure you save after each step!*
 	
-***
+---
 
 **1. Identification**
 
@@ -25,7 +25,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 	
 	6. Leave blank
 	 
-***	
+---	
 
 **2. Pricing**
 
