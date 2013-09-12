@@ -2,10 +2,12 @@
 ##Adding a Velociraptor
 ###1. Create the Velociraptor product in eCommerce
 Open eCommerce in Convio and copy an animal that currently exists in the adoption catalog catalog that correlates to the level you wish to create *(i.e. copy Arctic Fox for Velociraptor, Arctic Fox Family for Velociraptor Family, Arctic Fox Group for Velociraptor Group)* and update the following:
+	![](//Step1.png)
 
-*Note: Make sure you save at every step!*
+*Note: Make sure you save after each step!*
 
 **1. Identification**
+	![](//Step1_1.png)
 
 1. Enter a name for the product
 	
@@ -20,6 +22,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 6. Leave blank
 	
 **2. Pricing**
+	![](//Step1_2.png)
 	
 1. Enter Standard Price
 
@@ -28,12 +31,14 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 3. Leave blank
 	
 **3. Catalog Information**
+	![](//Step1_3.png)
 	
 1. Select "FY 13 Adoption Catalog" as the existing product type
 	
 2. Select "Wildlife Adoptions" as the product category for the item
 	
 **4. Short Description**
+	![](//Step1_4.png)	
 
 1. Enter the animal name for the short description for the product
 	
@@ -42,10 +47,12 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 3. Upload an image to use as a thumbnail for the product
 	
 **5. Full Description**
+	![](//Step1_5.png)
 
 1. Leave Blank	
 	
 **6. Digital Download**
+	![](//Step1_6.png)
 
 1. Check "This product can be downloaded" if there is a download for the animal
 	
@@ -56,6 +63,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 4. Leave blank
 	
 **7. Product Options**
+	![](//Step1_7.png)
 
 1. Leave the product options how they were copied and check the correspond with the following:
 	Velociraptor
@@ -76,16 +84,19 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 2. Leave the tribute fields how they were copied.
 
 **9. eCard Configuration**
+	![](//Step1_9.png)
 
 1. Check "Use eCards selected below"
 
 2. Add any eCards that are directly linked with the product
 
 **10. Discounts**
+	![](//Step1_10.png)
 
 1. Ensure all discounts are removed from "Your Selections"
 
 **11. Shipping Charges**
+	![](//Step1_11.png)
 
 1. Check "This product requires a shipping address"
 
@@ -110,6 +121,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 1. Ensure all products are removes from "Your Selections"
 
 **14. Manage Inventory**
+	![](//Step1_14.png)
 
 1. Leave "Yes, track inventory for this product" unchecked (Important!)
 
@@ -118,15 +130,22 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 3. Leave "Possible configurations for this product" blank.
 
 **15. eCommerce Stores**
+	![](//Step1_15.png)
 
 1. Select "3WEW1300XXXXX: FY13 Adoption and Gift Center TEG Redesign" is the only store added to "Your Selections"
 
 **16. Donation Levels**
+	![](//Step1_16.png)
 
 1. Leave as is
 
 **17. Publish Product**
+	![](//Step1_17.png)
 
 1. Preview the product
 
 2. Publish the product
+
+
+###Add the Velociraptor to the Adoption Center Homepage
+
