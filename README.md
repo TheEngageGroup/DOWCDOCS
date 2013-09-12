@@ -1,4 +1,6 @@
-DefendersCatalogDocumentation
+Defenders Catalog Documentation
 =============================
 
-Defenders Catalog Documentation
+This is a paragraph
+
+
