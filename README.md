@@ -11,7 +11,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **1. Identification**
 
-![](//Step1_1.png)
+![](Step1_1.png)
 
 	1. Enter a name for the product
 	
@@ -29,7 +29,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **2. Pricing**
 
-![](/Step1_2.png)
+![](Step1_2.png)
 	
 	1. Enter Standard Price
 
@@ -41,7 +41,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **3. Catalog Information**
 
-![](//Step1_3.png)
+![](Step1_3.png)
 	
 	1. Select "FY 13 Adoption Catalog" as the existing product type
 	
@@ -51,7 +51,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **4. Short Description**
 
-![](//Step1_4.png)	
+![](Step1_4.png)	
 
 	1. Enter the animal name for the short description for the product
 	
@@ -63,7 +63,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **5. Full Description**
 
-![](//Step1_5.png)
+![](Step1_5.png)
 
 	1. Leave Blank	
 	
