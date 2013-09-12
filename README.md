@@ -3,7 +3,7 @@
 ###1. Create the Velociraptor product in eCommerce
 Open eCommerce in Convio and copy an animal that currently exists in the adoption catalog catalog that correlates to the level you wish to create *(i.e. copy Arctic Fox for Velociraptor, Arctic Fox Family for Velociraptor Family, Arctic Fox Group for Velociraptor Group)* and update the following:
 
-![](//Step1.png)
+![](Step1.png)
 
 *Note: Make sure you save after each step!*
 	
