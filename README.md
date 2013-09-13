@@ -7,7 +7,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 *Note: Make sure you save after each step!*
 	
----
 
 **1. Identification**
 
@@ -25,7 +24,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 	
 	6. Leave blank
 	 
----	
 
 **2. Pricing**
 
@@ -37,7 +35,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 	
 	3. Leave blank
 	
-***	
 
 **3. Catalog Information**
 
@@ -47,7 +44,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 	
 	2. Select "Wildlife Adoptions" as the product category for the item
 	
-***	
 
 **4. Short Description**
 
@@ -59,7 +55,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 	
 	3. Upload an image to use as a thumbnail for the product
 	
-***
 
 **5. Full Description**
 
@@ -67,7 +62,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 	1. Leave Blank	
 	
-***
 
 **6. Digital Download**
 
@@ -81,7 +75,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 	
 	4. Leave blank
 	
-***
 
 **7. Product Options**
 
@@ -99,7 +92,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 			* Would you like to receive the Kids Wildlife Activities Book (Free)?
 			* Would you like your adoption gift-wrapped in the reusable tote ($8)?
 			
-***
 
 **8. Tribute Configuration**
 
@@ -107,7 +99,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 	2. Leave the tribute fields how they were copied.
 
-***
 
 **9. eCard Configuration**
 
@@ -117,7 +108,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 	2. Add any eCards that are directly linked with the product
 
-***
 
 **10. Discounts**
 
@@ -125,7 +115,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 	1. Ensure all discounts are removed from "Your Selections"
 
-***
 
 **11. Shipping Charges**
 
@@ -145,19 +134,16 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 	7. Check "Yes, embed the shipping charge in the item price"
 
-***
 
 **12. Associated Interests**
 
 	1. Check "Adoptions and Gifts" and "Adopt a Velociraptor"
 
-***
 
 **13. Linked Products**
 
 	1. Ensure all products are removes from "Your Selections"
 
-***
 
 **14. Manage Inventory**
 
@@ -169,7 +155,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 	3. Leave "Possible configurations for this product" blank.
 
-***
 
 **15. eCommerce Stores**
 
@@ -177,7 +162,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 	1. Select "3WEW1300XXXXX: FY13 Adoption and Gift Center TEG Redesign" is the only store added to "Your Selections"
 
-***
 
 **16. Donation Levels**
 
@@ -185,7 +169,6 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 	1. Leave as is
 
-***
 
 **17. Publish Product**
 
