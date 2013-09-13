@@ -71,7 +71,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **6. Digital Download**
 
-![](//Step1_6.png)
+![](Step1_6.png)
 
 	1. Check "This product can be downloaded" if there is a download for the animal
 	
@@ -85,7 +85,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **7. Product Options**
 
-![](//Step1_7.png)
+![](Step1_7.png)
 
 	1. Leave the product options how they were copied and check the correspond with the following:
 	Velociraptor
@@ -111,7 +111,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **9. eCard Configuration**
 
-![](//Step1_9.png)
+![](Step1_9.png)
 
 	1. Check "Use eCards selected below"
 
@@ -121,7 +121,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **10. Discounts**
 
-![](//Step1_10.png)
+![](Step1_10.png)
 
 	1. Ensure all discounts are removed from "Your Selections"
 
@@ -129,7 +129,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **11. Shipping Charges**
 
-![](//Step1_11.png)
+![](Step1_11.png)
 
 	1. Check "This product requires a shipping address"
 
@@ -161,7 +161,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **14. Manage Inventory**
 
-![](//Step1_14.png)
+![](Step1_14.png)
 
 	1. Leave "Yes, track inventory for this product" unchecked (Important!)
 
@@ -173,7 +173,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **15. eCommerce Stores**
 
-![](//Step1_15.png)
+![](Step1_15.png)
 
 	1. Select "3WEW1300XXXXX: FY13 Adoption and Gift Center TEG Redesign" is the only store added to "Your Selections"
 
@@ -181,7 +181,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **16. Donation Levels**
 
-![](//Step1_16.png)
+![](Step1_16.png)
 
 	1. Leave as is
 
@@ -189,7 +189,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **17. Publish Product**
 
-![](//Step1_17.png)
+![](Step1_17.png)
 
 	1. Preview the product
 
