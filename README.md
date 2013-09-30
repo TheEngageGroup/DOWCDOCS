@@ -194,7 +194,7 @@ Catalog Homepage | Animal Plush Flyout | 240  | 100
 Animal Page | Slider Large | 1400 | 500 
 Animal Page | Slider Medium | 900 | 400 
 Animal Page | Sidebar Portrait Thumbnail  | 170 | Variable 
-Animal Page | Sidebar Portrait Full-size | Variable | 1000 
+Animal Page | Sidebar Portrait Full-size | Variable  | 1000 
 Animal Page | Sidebar Landscape Thumbnail | 170 | Variable 
 Animal Page | Sidebar Landscape Full-size | 1000 | Variable 
 Animal Page | Product Level Plush Thumbnail | 140 | 140 
