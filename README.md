@@ -187,22 +187,21 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 ###2. Upload Veliciraptor Images for product page
 Upload the following images with the following dimensions:
-| **Image** | **Width** | **Height**
------------------|---------------------------- | --------- | ---------
-Catalog Homepage | Animal Thumbnail | 202  | 141 
-Catalog Homepage | Animal Plush Flyout | 240  | 100 
-Animal Page | Slider Large | 1400 | 500 
-Animal Page | Slider Medium | 900 | 400 
-Animal Page | Sidebar Portrait Thumbnail  | 170 | Variable 
-Animal Page | Sidebar Portrait Full-size | Variable  | 1000 
-Animal Page | Sidebar Landscape Thumbnail | 170 | Variable 
-Animal Page | Sidebar Landscape Full-size | 1000 | Variable 
-Animal Page | Product Level Plush Thumbnail | 140 | 140 
-Animal Page | Product Level Plush Full-size | 1000 | 1000 
-Animal Page | Product Level Factsheet Thumbnail | 140 | 140 
-Animal Page | Product Level Factsheet Full-size | 1000 | 1000 
-Animal Page | Product Level Bifold Thumbnail | 85 | 85 
-Animal Page | Product Level Bifold Full-size | 1000 | 1000 
+
+* Catalog Homepage - Animal Thumbnail - **202  x 141 **
+* Catalog Homepage - Animal Plush Flyout - **240  x 100 **
+* Animal Page - Slider Large - **1400 x 500 **
+* Animal Page - Slider Medium - **900 x 400 **
+* Animal Page - Sidebar Portrait Thumbnail  - **170 x Variable **
+* Animal Page - Sidebar Portrait Full-size - **Variable x 1000 **
+* Animal Page - Sidebar Landscape Thumbnail - **170 x Variable **
+* Animal Page - Sidebar Landscape Full-size - **1000 x Variable **
+* Animal Page - Product Level Plush Thumbnail - **140 x 140** 
+* Animal Page - Product Level Plush Full-size - **1000 x 1000 **
+* Animal Page - Product Level Factsheet Thumbnail - **140 x 140 **
+* Animal Page - Product Level Factsheet Full-size - **1000 x 1000 **
+* Animal Page - Product Level Bifold Thumbnail - **85 x 85 **
+* Animal Page - Product Level Bifold Full-size - **1000 x 1000 **
 
 
 
