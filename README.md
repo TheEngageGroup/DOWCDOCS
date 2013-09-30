@@ -206,6 +206,7 @@ Upload the following images with the following dimensions:
 Once uploaded, collect image urls in an excel file to keep organized. 
 
 You will also need the Animal Certificate and Activities Book images that remain the same for every animal:
+
 * Animal Page - Product Level Certificate Thumbnail - https://secure.defenders.org/ac/img/adoptions/certificates/thumbs/adoption-certificate.jpg
 * Animal Page - Product Level Certificate Full-size - https://secure.defenders.org/ac/img/adoptions/certificates/large/adoption-certificate.jpg
 * Animal Page - Product Level Activities Book Thumbnail - https://secure.defenders.org/ac/img/adoptions/activity%20book/activity-book_IMG_4330-thumb.jpg
