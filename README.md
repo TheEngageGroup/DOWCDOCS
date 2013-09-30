@@ -203,5 +203,13 @@ Upload the following images with the following dimensions:
 * Animal Page - Product Level Bifold Thumbnail - **85 x 85 **
 * Animal Page - Product Level Bifold Full-size - **1000 x 1000 **
 
+Once uploaded, collect image urls in an excel file to keep organized. 
+
+You will also need the Animal Certificate and Activities Book images that remain the same for every animal:
+* Animal Page - Product Level Certificate Thumbnail - https://secure.defenders.org/ac/img/adoptions/certificates/thumbs/adoption-certificate.jpg
+* Animal Page - Product Level Certificate Full-size - https://secure.defenders.org/ac/img/adoptions/certificates/large/adoption-certificate.jpg
+* Animal Page - Product Level Activities Book Thumbnail - https://secure.defenders.org/ac/img/adoptions/activity%20book/activity-book_IMG_4330-thumb.jpg
+* Animal Page - Product Level Activities Book Full-size - https://secure.defenders.org/ac/img/adoptions/activity%20book/activity-book_IMG_4330-large.jpg
+
 
 
