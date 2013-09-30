@@ -160,7 +160,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 ![](Step1_15.png)
 
-	1. Select "3WEW1300XXXXX: FY13 Adoption and Gift Center TEG Redesign" is the only store added to "Your Selections"
+	1. Select "3WEW1400XXXXX: FY14 Adoption and Gift Center TEG Redesign" is the only store added to "Your Selections"
 
 
 **16. Donation Levels**
@@ -178,6 +178,14 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 	2. Publish the product
 
+**18. Product ID number**
+	
+	1. You'll need this 4 digit number when creating the product page.
+	
+	2. Write down the 4 digit number.
 
-###Add the Velociraptor to the Adoption Center Homepage
+
+###2. Upload Veliciraptor Images for product page
+Here you'll need a variety of images with different sizes. It is easiest to create all of the images and then upload at the same time. Once uploaded, keep an excel file of the image urls that you can refer to in the next steps of the process.
+
 
