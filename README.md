@@ -187,8 +187,8 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 ###2. Upload Veliciraptor Images for product page
 Upload the following images with the following dimensions:
-| **Image** | **Width** | **Height**|
-|-----------------|---------------------------- | --------- | ---------|
+| **Image** | **Width** | **Height**
+-----------------|---------------------------- | --------- | ---------
 Catalog Homepage | Animal Thumbnail | 202  | 141 
 Catalog Homepage | Animal Plush Flyout | 240  | 100 
 Animal Page | Slider Large | 1400 | 500 
