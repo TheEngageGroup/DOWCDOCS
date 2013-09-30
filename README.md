@@ -217,12 +217,15 @@ See Velociraptor.xlsx for a template.
 ###3. Create Velociraptor Product Page in PageBuilder
 In Convio, click Content > Pagebuilder.
 
-1. Create the animal page
+**1. Create the animal page**
 	1. Search "Adopt_a_bison" and copy the "Adopt_a_Bison" PageBuilder page.
 	2. Rename the page "wagc_Velociraptor" and click save. After you save, copy and paste the page url into your excel spreadsheet. 
 	3. Click Finish.
 	4. You will be taken back to the page library, then search for the page you just created (wagc_Velociraptor).
-	5. 
+	5. Click "Manage" for the new page.
+	6. Click "Publish" for the latest version of the new page.
+	7. Click "Edit Content" for the same version and then click "Edit HTML Content".
+	8. 
 
 Search "Adopt_a_bison_products" and copy the "Adopt_a_bison_products" PageBuilder Page.
 5. Rename the page wagc_Velociraptor and click save. Copy and paste page the url into your excel spreasheet.
