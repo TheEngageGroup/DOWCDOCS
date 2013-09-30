@@ -185,7 +185,7 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 	2. Write down the 4 digit number.
 
 
-###2. Upload Veliciraptor Images for product page
+###2. Upload Velociraptor Images for product page
 Upload the following images with the following dimensions:
 
 * Catalog Homepage - Animal Thumbnail - **202  x 141 **
@@ -211,5 +211,13 @@ You will also need the Animal Certificate and Activities Book images that remain
 * Animal Page - Product Level Activities Book Thumbnail - https://secure.defenders.org/ac/img/adoptions/activity%20book/activity-book_IMG_4330-thumb.jpg
 * Animal Page - Product Level Activities Book Full-size - https://secure.defenders.org/ac/img/adoptions/activity%20book/activity-book_IMG_4330-large.jpg
 
+See Velociraptor.xlsx for a template.
 
+###3. Create Velociraptor Product Page in PageBuilder
+1. In Convio, click Content > Pagebuilder
+2. Search "Adopt_a_bison" and copy the "Adopt_a_Bison" PageBuilder page.
+3. Rename the page wagc_Velociraptor and click save. Copy and paste the page url into your excel spreadsheet.
+4. Search "Adopt_a_bison_products" and copy the "Adopt_a_bison_products" PageBuilder Page.
+5. Rename the page wagc_Velociraptor and click save. Copy and paste page the url into your excel spreasheet.
+6. 
 
