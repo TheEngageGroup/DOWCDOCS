@@ -239,16 +239,10 @@ Search "Adopt_a_bison_products" and copy the "Adopt_a_bison_products" PageBuilde
 
 ## Associating Upsells to the Velociraptor
 
------
-
 ## Adding Products to Gifts and Gear
 
 ## Adding Products to Wolf Saving Gifts
 
-------
-
 ## Misc
-
-------
 
 ## Style Guide and Examples
