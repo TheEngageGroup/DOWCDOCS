@@ -231,3 +231,24 @@ Search "Adopt_a_bison_products" and copy the "Adopt_a_bison_products" PageBuilde
 5. Rename the page wagc_Velociraptor and click save. Copy and paste page the url into your excel spreasheet.
 6. 
 
+## Creating the Velociraptor Profile Page
+
+## Adding the Velociraptor to the Home Page Grid
+
+## Adding the Velociraptor Slider to the Home Page
+
+## Associating Upsells to the Velociraptor
+
+-----
+
+## Adding Products to Gifts and Gear
+
+## Adding Products to Wolf Saving Gifts
+
+------
+
+## Misc
+
+------
+
+## Style Guide and Examples
