@@ -221,11 +221,11 @@ In Convio, click Content > Pagebuilder.
 
 ![](Product_Page_1.png)
 
-![](Product_Page_2.png)
+![](Product_page_2.png)
 
 ![](Product_Page_3.png)
 
-![](Product_Page_4.png)
+![](Product_page_4.png)
 
 ![](Product_Page_5.png)
 
