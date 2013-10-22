@@ -10,19 +10,19 @@ Open eCommerce in Convio and copy an animal that currently exists in the adoptio
 
 **1. Identification**
 
-	![](Step1_1.png)
+![](Step1_1.png)
 
-1. Enter a name for the product
+	1. Enter a name for the product
 	
-2. Select "Adoption & Gift Center (FY13)" security category for this product
+	2. Select "Adoption & Gift Center (FY13)" security category for this product
 	
-3. Choose "Higher" for the Product Priority
+	3. Choose "Higher" for the Product Priority
 	
-4. Enter an external identifier for the product (the tracking code)
+	4. Enter an external identifier for the product (the tracking code)
 	
-5. Leave blank
+	5. Leave blank
 	
-6. Leave blank
+	6. Leave blank
 	 
 
 **2. Pricing**
