@@ -191,7 +191,7 @@ Upload the following images with the following dimensions:
 * Catalog Homepage - Animal Thumbnail - **202  x 141 **
 * Catalog Homepage - Animal Plush Flyout - **240  x 100 **
 * Animal Page - Slider Large - **1400 x 500 **
-* Animal Page - Slider Medium - **900 x 400 **
+* Animal Page - Slider Medium - **900 x 600 **
 * Animal Page - Sidebar Portrait Thumbnail  - **170 x Variable **
 * Animal Page - Sidebar Portrait Full-size - **Variable x 1000 **
 * Animal Page - Sidebar Landscape Thumbnail - **170 x Variable **
@@ -217,21 +217,27 @@ See Velociraptor.xlsx for a template.
 ###3. Create Velociraptor Product Page in PageBuilder
 In Convio, click Content > Pagebuilder.
 
-**1. Create the animal page**
-	1. Search "Adopt_a_bison" and copy the "Adopt_a_Bison" PageBuilder page.
-	2. Rename the page "wagc_Velociraptor" and click save. After you save, copy and paste the page url into your excel spreadsheet. 
-	3. Click Finish.
-	4. You will be taken back to the page library, then search for the page you just created (wagc_Velociraptor).
-	5. Click "Manage" for the new page.
-	6. Click "Publish" for the latest version of the new page.
-	7. Click "Edit Content" for the same version and then click "Edit HTML Content".
-	8. 
-
-Search "Adopt_a_bison_products" and copy the "Adopt_a_bison_products" PageBuilder Page.
-5. Rename the page wagc_Velociraptor and click save. Copy and paste page the url into your excel spreasheet.
-6. 
-
 ## Creating the Velociraptor Profile Page
+
+![](Product_Page_1.png)
+
+![](Product_Page_2.png)
+
+![](Product_Page_3.png)
+
+![](Product_Page_4.png)
+
+![](Product_Page_5.png)
+
+![](Product_Page_6.png)
+
+![](Product_Page_7.png)
+
+![](Product_Page_8.png)
+
+![](Product_Page_9.png)
+
+![](Product_Page_10.png)
 
 ## Adding the Velociraptor to the Home Page Grid
 
