@@ -219,17 +219,22 @@ See Velociraptor.xlsx for a template.
 In Convio, click Content > Pagebuilder. Search for "Velociraptor" and make a copy of "wagc_Velociraptor".
 
 **1. Copy and save wagc_Velociraptor page**
+
 ![](Product_Page_1.png)
 
-	1. Click "Copy".
+	1. Click "Copy" for "wagc_Velociraptor".
 
 ![](Product_page_2.png)
 
 	2. Name the page to read "wagc_animalname" with animalname as the name of the product you are creating.
 	
 	3. Click Finish (all other fields will remain the same).
+	
+
+**2. Update the product slider image
 
 ![](Product_Page_3.png)
+	
 
 ![](Product_Page_4.png)
 
