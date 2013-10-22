@@ -1,5 +1,5 @@
 #Defenders of Wildlife Adoption Catalog
-##Adding a Velociraptor
+##Adding a Velociraptor Product
 ###1. Create the Velociraptor product in eCommerce
 Open eCommerce in Convio and copy an animal that currently exists in the adoption catalog catalog that correlates to the level you wish to create *(i.e. copy Arctic Fox for Velociraptor, Arctic Fox Family for Velociraptor Family, Arctic Fox Group for Velociraptor Group)* and update the following:
 
@@ -214,14 +214,20 @@ You will also need the Animal Certificate and Activities Book images that remain
 
 See Velociraptor.xlsx for a template.
 
-###3. Create Velociraptor Product Page in PageBuilder
-In Convio, click Content > Pagebuilder.
+##3. Create Animal Product Pages in PageBuilder
 
-## Creating the Velociraptor Profile Page
+In Convio, click Content > Pagebuilder. Search for "Velociraptor" and make a copy of "wagc_Velociraptor".
 
+**1. Copy and save wagc_Velociraptor page**
 ![](Product_Page_1.png)
 
+	1. Click "Copy".
+
 ![](Product_page_2.png)
+
+	2. Name the page to read "wagc_animalname" with animalname as the name of the product you are creating.
+	
+	3. Click Finish (all other fields will remain the same).
 
 ![](Product_Page_3.png)
 
